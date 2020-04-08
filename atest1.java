@@ -3,7 +3,7 @@ ciao2
 text4 test
 // commento 0
 // commento 3
-bug2 = False;
+bug3 = False;
 a
 
    
