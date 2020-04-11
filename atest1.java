@@ -3,9 +3,9 @@ ciao2
 text4 test
 // commento 0
 // commento 3
-bug3 = False;
+bug3 = True;
 a
-
    
-// commento 3
+// comment 3
+o = 3
 // commento 4
